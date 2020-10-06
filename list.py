@@ -22,6 +22,4 @@ a.show()
 print(a.add())
 a.show()
 
-print("hello")
-
 
